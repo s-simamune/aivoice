@@ -1,0 +1,11 @@
+/* Please define your custom styles here */
+
+/* Please define your custom styles here */
+/* iPadでボタンの文字が表示されない問題はボタンの色を黒に指定するcssで上書きすることで解決 */
+
+button {
+  background-color: white;
+  border-radius: 3px;
+  padding: 8px 8px 6px;
+  color: black; /* 追加 */
+}
